@@ -6,7 +6,7 @@
 *::-moz-selection {
   background-attachment: scroll;
   background-clip: border-box;
-  background-color: #500ade;
+  background-color: #259BE4;
   background-image: none;
   background-origin: padding-box;
   background-position: 0 0;
@@ -51,7 +51,7 @@ a:hover, a:focus {
     font-size: 36px;
     font-weight: 700;
     letter-spacing: 2px;
-	color: #500ade;
+	color: #259BE4;
 }
 .left-content {
     text-align: right;
@@ -67,7 +67,7 @@ a:hover, a:focus {
     height: 50px;
 }
 .left-content ul li.active {
-  background-color: #500ade;
+  background-color: #259BE4;
 }
 .left-content ul li.active a span {
   border-color: #red;
@@ -93,7 +93,7 @@ a:hover, a:focus {
     font-size: 20px
 }
 .copyright {
-	background-color: #500ade;
+	background-color: #259BE4;
 	border-top: 1px solid rgba(0, 0, 0, 0.07);
 	bottom: 0;
 	color: #ffffff;
@@ -137,7 +137,7 @@ pre {
 }
 .content {}
 .content a {
-  color: #500ade;
+  color: #259BE4;
   margin-right: 15px;
 }
 .content h1 {
@@ -149,7 +149,7 @@ pre {
 }
 
 #one > h1 span {
-  color: #500ade;
+  color: #259BE4;
 }
 .content#source {}
 .content#source > ul li {}
